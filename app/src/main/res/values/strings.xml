@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">albaranes</string>
+    <string name="app_name">Albaranes</string>
+    <string name="capture_title">Escanear albarán</string>
+    <string name="capture_button_scan">Escanear albarán</string>
+    <string name="capture_button_rescan">Escanear otro</string>
+    <string name="capture_empty_hint">Pulsa el botón para fotografiar un albarán.</string>
+    <string name="capture_image_size">%1$d × %2$d px</string>
+    <string name="capture_image_description">Albarán escaneado</string>
+    <string name="capture_error_scanner">No se pudo abrir el escáner: %1$s</string>
+    <string name="capture_error_no_image">El escáner no devolvió ninguna imagen.</string>
+    <string name="capture_error_load">No se pudo cargar la imagen: %1$s</string>
 </resources>
